@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="name_validation_error">Name is required</string>
+    <string name="phone_empty_err">Phone number is required</string>
+    <string name="phone_length_error">Phone number length must be 10</string>
+    <string name="caption_empty_err">Caption is required</string>
+</resources>
